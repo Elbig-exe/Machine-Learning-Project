@@ -1,4 +1,4 @@
-# AI-Project:
+# Machine-Learning-Project:
 Artificial intelligence model that detects and analyses  anomaly TCP / IP packets sent in a network using supervised and unsupervised learning algorithms
 # What I have learned:
  * Python programing language
